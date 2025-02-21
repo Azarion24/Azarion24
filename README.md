@@ -19,7 +19,7 @@ I'm a student at **Wrocław University of Science and Technology**, passionate a
 
 # Some projects
 
-- **Matlab**: [![Matlab Icon](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)](https://github.com/Azarion24/Matlab) 
+- **Matlab**: [<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="20" height="20" />](https://github.com/Azarion24/Matlab)
 
 ---
 💡 *Always eager to learn, experiment, and collaborate on cool projects!*
