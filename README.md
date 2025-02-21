@@ -17,5 +17,9 @@ I'm a student at **Wrocław University of Science and Technology**, passionate a
 - Advanced FPGA Design & High-Level Synthesis
 - Real-Time Operating Systems (RTOS)
 
+# Some projects
+
+- **Matlab**: (https://github.com/Azarion24/Matlab)
+
 ---
 💡 *Always eager to learn, experiment, and collaborate on cool projects!*
