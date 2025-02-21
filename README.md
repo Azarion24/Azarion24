@@ -17,8 +17,5 @@ I'm a student at **Wrocław University of Science and Technology**, passionate a
 - Advanced FPGA Design & High-Level Synthesis
 - Real-Time Operating Systems (RTOS)
 
-## 📫 Let's Connect!
-[LinkedIn](#) | [Email](#) | [GitHub](#)
-
 ---
 💡 *Always eager to learn, experiment, and collaborate on cool projects!*
