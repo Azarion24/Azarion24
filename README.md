@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Azarion24/Azarion24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a student at **Wrocław University of Science and Technology**, passionate about:
+- 🤖 **Artificial Intelligence** & Machine Learning
+- 🔧 **Embedded Systems** & Low-Level Programming
+- ⚡ **VHDL** & FPGA Development
 
-Here are some ideas to get you started:
+## 🔨 Tech Stack
+- **Languages:** Python, C/C++, VHDL
+- **AI/ML:** TensorFlow, PyTorch
+- **Embedded:** STM32, ESP32, AVR
+- **FPGA:** Xilinx Vivado, Quartus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Reinforcement Learning & Neural Networks
+- Advanced FPGA Design & High-Level Synthesis
+- Real-Time Operating Systems (RTOS)
+
+## 📫 Let's Connect!
+[LinkedIn](#) | [Email](#) | [GitHub](#)
+
+---
+💡 *Always eager to learn, experiment, and collaborate on cool projects!*
